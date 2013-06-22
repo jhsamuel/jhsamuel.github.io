@@ -1,16 +1,3 @@
-<head>
-<title>
-Jack Samuel | Home
-</title>
-</head>
-
-* <a href="/cv.pdf/" target="_blank"> CV </a>
-* [Research](/research.html/)
-* [Teaching](/teaching.html/)
-* [Contact](/contact.html/)
-
----
-
 #Jack Samuel, M.A
 
 ---
@@ -23,11 +10,3 @@ This past spring I completed a Masters in philosophy at UW-Milwaukee, and this f
 I'm currently reading *The Birth of Biopolitics*, *System of the World* (the Neal Stephenson novel, not the second volume of Newton's *Principia*), and a plumbing guide from the "Tauton's Complete" series, and daydreaming about building a tiny house on a trailer like the ones that [Tumbleweed Houses][1] makes.
 
 [1]: http://www.tumbleweedhouses.com/products/tumbleweed-trailer/ "Tumbleweed Houses"
-
----
-
-<footer>
-<ul>
-    <li>I developed this site using <a href="http://daringfireball.net/projects/markdown">Markdown</a> and HTML5. Style by <a href="http://welchcanavan.com">Welch Canavan</a></li>
-    <li><a href="mailto:jackhsamuel@gmail.com">jackhsamuel@gmail.com</a></li>    
-</footer>

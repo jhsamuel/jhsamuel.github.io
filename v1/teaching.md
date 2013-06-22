@@ -1,16 +1,3 @@
-<head>
-<title>
-Jack Samuel | Teaching
-</title>
-</head>
-
-* <a href="/cv.pdf/" target="_blank"> CV </a>
-* [Home](/main.html/)
-* [Research](/research.html/)
-* [Contact](/contact.html/)
-
----
-
 #Teaching
 
 ---
@@ -26,11 +13,3 @@ Spring 2013, UWM
 
 ##Additional sample syllabi:
 I don't have any of these yet, but just as soon as I start applying for jobs I will be sure to make some.
-
----
-
-<footer>
-<ul>
-    <li>I developed this site using <a href="http://daringfireball.net/projects/markdown">Markdown</a> and HTML5. Style by <a href="http://welchcanavan.com">Welch Canavan</a></li>
-    <li><a href="mailto:jackhsamuel@gmail.com">jackhsamuel@gmail.com</a></li>    
-</footer>
